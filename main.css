@@ -99,7 +99,7 @@ section {
 section.features-section {
   background: #7000e3;
   color:  #ffffff;
-height: 100vh;}
+}
 
 ul.features-list {
   margin: 0;
@@ -467,7 +467,6 @@ nav li a:hover {
     top: -4em;
   }
  
-
   @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
  
@@ -589,21 +588,3 @@ i:hover {transform: scale(1.2); }
  #link:hover {color: #cecece}
  
   
- @media only screen and (min-width: 768px) {
-
-  .bodylogin {
-  
-  background-image: url(images/background.jpg;);
-  background-color: #7000e3;
-  
-  }
-
-  @media only screen and (min-width: 1080px)
-  {
-
-    .bodylogin {
-    
-    background-image: url("images/background.jpg");
-    background-color: #7000e3;}
-    
-   
